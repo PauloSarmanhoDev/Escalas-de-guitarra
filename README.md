@@ -1,2 +1,0 @@
-# Escalas-de-guitarra
- 
