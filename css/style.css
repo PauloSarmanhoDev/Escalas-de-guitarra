@@ -1,13 +1,20 @@
+/**********fonte***********/
+/*@font-face {
+    font-family: 'Axis';
+    src: url('/fontes/AxisExtrabold.otf');
+}*/
+*{font-family: 'calibri', sans-serif;}
+
 /*------ COR DA FONTE DO HEADER------ */
 .nav__logo{
     font-size: 28px;
     font-weight: bold;
-    color: blue;
+    color: black;
 }
 
 /*------MENU / MAIN------ */
 .section-title{
-    color: blue;
+    color: black;
 }
 
 .menu__container{
